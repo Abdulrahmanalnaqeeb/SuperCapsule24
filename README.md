@@ -59,6 +59,6 @@ kırmızı düşmanımız ona dokunduğumuzda direk ölüyorüz ancak tam üzeri
 
 
 
- #  SON PANEL
+ #  SONN
 Son panelimiz olan oyunu kazandığımızda çıkmaktadır ve tekrar oyn buttonumuzu bulunmaktadır..
 ![Baslangıc](https://i.hizliresim.com/m82r7ny.jpg)
